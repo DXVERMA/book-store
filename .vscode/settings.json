@@ -1,0 +1,17 @@
+{
+  "editor.tokenColorCustomizations": {
+    "comments":  "#00cc66"   ,    // Customize comment color
+    "functions": "#ff5733",       // Customize function color
+    "variables": "#007acc",       // Customize variable color
+    "keywords": "#e91e63",        // Customize keyword color
+    "strings": "#ff9800",         // Customize string color
+    "numbers": "#fff1ece1",         // Customize number color
+    "types": "#d0dde3d9",           // Customize type color
+  
+  },
+  "editor.semanticTokenColorCustomizations": {
+
+  }
+  
+      
+}
